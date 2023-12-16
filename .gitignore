@@ -1,0 +1,8 @@
+# .gitignore
+*.venv
+venv
+__pycache__/
+.env
+ca.pem
+service.cert
+service.key
